@@ -8,6 +8,7 @@
 - [Hugging Face Model with WandB](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Hugging%20Face%20Model%20with%20WandB-4.ipynb)
 - [Cutmix Augmentation and TensorFlow Record](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Cutmix%20Augmentation%20and%20Tensorflow%20Record-3.ipynb)
 - [ONNX Quantization and TensorFlow Lite Model Accuracy Evaluation and Conversion](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/ONNX%20Quantization%20and%20TensorFlow%20Lite%20Model%20Accuracy%20Evaluation%20and%20Conversion-5.ipynb)
+- [Human Face Recognition](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/tree/main/Face%20Recognition)
 - [APl](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/tree/main/api%20env/emotions_detection)
 - [Data](https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes)
 
