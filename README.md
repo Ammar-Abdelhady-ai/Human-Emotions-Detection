@@ -5,7 +5,7 @@
 ## References (Continued)
 - [My-Model](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/My-Model-1.ipynb)
 - [Model Visualization, Patch Encoder, and Transfer Learning](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Model%20Visualization%20%2CPatch%20Encoder%20and%20Transfer%20Learning-2.ipynb)
-- [Hugging Face Model with WandB]([https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Dataset/blob/main/Hugging%20Face%20Model%20with%20WandB-4.ipynb](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Hugging%20Face%20Model%20with%20WandB-4.ipynb))
+- [Hugging Face Model with WandB]([https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Dataset/blob/main/Hugging%20Face%20Model%20with%20WandB-4.ipynb](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Hugging%20Face%20Model%20with%20WandB-4.ipynb)
 - [Cutmix Augmentation and TensorFlow Record](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/Cutmix%20Augmentation%20and%20Tensorflow%20Record-3.ipynb)
 - [ONNX Quantization and TensorFlow Lite Model Accuracy Evaluation and Conversion](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/blob/main/ONNX%20Quantization%20and%20TensorFlow%20Lite%20Model%20Accuracy%20Evaluation%20and%20Conversion-5.ipynb)
 - [APl](https://github.com/Ammar-Abdelhady-ai/Human-Emotions-Detection/tree/main/api%20env/emotions_detection)
